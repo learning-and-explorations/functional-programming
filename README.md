@@ -1,6 +1,5 @@
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
-   * [Translations](#translations)
 - [What is functional programming](#what-is-functional-programming)
 - [The two pillars of functional programming](#the-two-pillars-of-functional-programming)
    * [Referential transparency](#referential-transparency)
@@ -70,11 +69,6 @@ This repo introduces functional programming concepts using TypeScript and possib
 This fork is an edited translation of [Giulio Canti](https://gcanti.github.io/about.html)'s ["Introduction to Functional Programming (Italian)"](https://github.com/gcanti/functional-programming). The author uses the original as a reference and supporting material for his lectures and workshops on functional programming.
 
 The purpose of the edits is to expand on the material without changing the concepts nor structure, for more information about the edit's goals see the [CONTRIBUTING](/CONTRIBUTING.md) file.
-
-
-## Translations
-
-- [Simplified Chinese and Japanese](https://github.com/YiCChi/functional-programming)  by @YiCChi
 
 
 # What is functional programming
